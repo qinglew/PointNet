@@ -9,6 +9,8 @@
 * NumPy
 * PyTorch
 
+Firstly, you need to create a directory named "data" in the root directory. You can execute the scripts I prepared to download dataset or you can use the links given in the scripts to download directly.
+
 ### Classification
 
 Dataset: [ModelNet40](https://shapenet.cs.stanford.edu/media/modelnet40_ply_hdf5_2048.zip)
